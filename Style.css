@@ -4,11 +4,6 @@
     box-sizing: 0;
 }
 
-body {
-    font-family: ial, Helvetica, sans-serif;
-    margin: 0;
-    background-color: green;
-  }
   
   .navbar {
     overflow: hidden;
@@ -78,3 +73,25 @@ body {
     padding: 39px;
     font-size: 39px;
   }
+
+.canvasfoto{
+  width:250px; height: 100px;
+  float: left;
+}
+.s1{
+  display: flex;
+  background-color: darkgreen;
+  height: 24vw;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} 
+h1 {
+color:  white;
+}
+p {
+color:  white;
+}
+.canvasfoto{
+float: left;
+}
