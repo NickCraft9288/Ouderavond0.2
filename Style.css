@@ -74,10 +74,7 @@
     font-size: 39px;
   }
 
-.canvasfoto{
-  width:250px; height: 100px;
-  float: left;
-}
+
 .s1{
   display: flex;
   background-color: darkgreen;
@@ -93,5 +90,10 @@ p {
 color:  white;
 }
 .canvasfoto{
-float: left;
+  width:270px; height: 100px;
+  float: left;
+}
+.s2{
+  float: left;
+
 }
