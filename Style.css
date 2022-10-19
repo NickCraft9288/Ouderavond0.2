@@ -75,14 +75,16 @@
   }
 
 
-.s1{
+.container{
   display: flex;
   background-color: darkgreen;
   height: 24vw;
-  justify-content: center;
   align-items: center;
-  flex-direction: column;
+  justify-content: center;
 } 
+.container > div {
+width: 50%;
+}
 h1 {
 color:  white;
 }
@@ -91,9 +93,7 @@ color:  white;
 }
 .canvasfoto{
   width:270px; height: 100px;
-  float: left;
 }
 .s2{
   float: left;
-
 }
