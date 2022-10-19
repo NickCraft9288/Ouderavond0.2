@@ -97,3 +97,16 @@ color:  white;
 .s2{
   float: left;
 }
+
+body {
+  background-image: url("https://p0.nicelocal.co.nl/preview/IiBEIXyyfJvp-YDTd4pvug/1120x700x85/1/1/c/original_61585591f049f220dd5ea738_61596c0d9c49a.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.s3 {
+  background-color: green;
+  height: 13vw;
+  justify-content: center;
+}
