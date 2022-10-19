@@ -80,7 +80,8 @@
   background-color: darkgreen;
   height: 24vw;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+  
 } 
 .container > div {
 width: 50%;
