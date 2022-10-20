@@ -4,7 +4,10 @@
     box-sizing: 0;
 }
 
-  
+header{
+  position: sticky;
+  top: 0px;
+}
   .navbar {
     overflow: hidden;
     background-color: #333; 
@@ -110,9 +113,4 @@ body {
   background-color: green;
   height: 13vw;
   justify-content: center;
-}
-
-header{
-  position: sticky;
-  top: 0px;
 }
