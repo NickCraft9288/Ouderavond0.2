@@ -97,6 +97,7 @@ color:  white;
 }
 .s2{
   float: left;
+  background-color: lightgray;
 }
 
 body.homepage {
@@ -181,4 +182,13 @@ header{
   transform: translate(-50%, -50%);
   font-size: 30px;
   color: white;
+}
+ 
+.kalender {
+  text-align: end; 
+  justify-content: space-around;
+}
+.inbox {
+  text-align: left;
+  justify-content: space-between;
 }
