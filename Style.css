@@ -97,7 +97,7 @@ color:  white;
 }
 .s2{
   float: left;
-  background-color: lightgray;
+  background-color: darkgreen;
 }
 
 body.homepage {
@@ -191,4 +191,7 @@ header{
 .inbox {
   text-align: left;
   justify-content: space-between;
+}
+.s4 {
+  background-color: darkgreen;
 }
