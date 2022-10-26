@@ -185,13 +185,32 @@ header{
 }
  
 .kalender {
-  text-align: end; 
-  justify-content: space-around;
+  text-align: right; 
+  justify-content: right
 }
 .inbox {
   text-align: left;
-  justify-content: space-between;
 }
 .s4 {
+  background-color: darkgreen;
+}
+
+.rooster {
+  background-color: darkgreen;
+}
+
+.inbox {
+  justify-content: left;
+}
+.rooster {
+  justify-content: left;
+}
+.roosterfoto {
+justify-content: right;
+}
+.cijfer {
+  background-color: darkgreen;
+}
+.aanwezigheid {
   background-color: darkgreen;
 }
