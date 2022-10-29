@@ -185,8 +185,7 @@ header{
 }
  
 .kalender {
-  text-align: right; 
-  justify-content: right
+  justify-content: left;
 }
 .inbox {
   text-align: left;
@@ -216,4 +215,19 @@ justify-content: right;
 }
 .textha {
   background-color: darkgreen;
+}
+
+.nick {
+  position: relative;
+  left: 0%;
+  top: 50%;
+}
+.textnick {
+  background-color: darkgreen;
+}
+
+.lorenzo {
+  position: relative;
+  left: 50%;
+  bottom: 1253px;
 }
