@@ -170,6 +170,7 @@ header{
   transform: translate(-50%, -50%);
   font-size: 40px;
   color: white;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .inleiding {
@@ -182,6 +183,7 @@ header{
   transform: translate(-50%, -50%);
   font-size: 30px;
   color: white;
+  font-family: "Times New Roman", Times, serif;
 }
  
 .kalender {
@@ -235,4 +237,89 @@ justify-content: right;
 .krav-maga {
   float: right;
   top: 60px;
+}
+
+
+.fotob {
+  width:496px; height: 244.5px;
+}
+
+.klas {
+  width:496px; height: 244.8px;
+}
+
+
+body.begeleiding {
+  background-color: darkgreen;
+}
+
+.i {
+  float: right;
+}
+
+.admin {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.kantine {
+  float: left;
+}
+
+.service {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.ziek {
+  float: left;
+}
+
+.opening {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.les {
+  float: right;
+}
+
+.bp {
+  width:344px; height: 244.8px;
+  float: right;
+}
+
+body.opleiding   {
+  background-color: darkgreen;
+}
+
+.vsc {
+  width:300px; height: 300px;
+}
+
+
+
+
+.container5 {
+  display: flex;
+  justify-content: center
+}
+
+.text5 {
+  font-size: 20px;
+  padding-left: 20px;
+
+}
+
+body.software   {
+  background-color: darkgreen;
 }
