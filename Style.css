@@ -97,7 +97,7 @@ color:  white;
 }
 .s2{
   float: left;
-  background-color: darkgreen;
+  background-color: green;
 }
 
 body.homepage {
@@ -193,11 +193,11 @@ header{
   text-align: left;
 }
 .s4 {
-  background-color: darkgreen;
+  background-color: green;
 }
 
 .rooster {
-  background-color: darkgreen;
+  background-color:  green;
 }
 
 .inbox {
@@ -210,13 +210,13 @@ header{
 justify-content: right;
 }
 .cijfer {
-  background-color: darkgreen;
+  background-color: green;
 }
 .aanwezigheid {
-  background-color: darkgreen;
+  background-color: green;
 }
 .textha {
-  background-color: darkgreen;
+  background-color: green;
 }
 
 .nick {
@@ -225,7 +225,7 @@ justify-content: right;
   top: 50%;
 }
 .textnick {
-  background-color: darkgreen;
+  background-color: green;
 }
 
 .lorenzo {
@@ -250,7 +250,7 @@ justify-content: right;
 
 
 body.begeleiding {
-  background-color: darkgreen;
+  background-color: green;
 }
 
 .i {
@@ -299,7 +299,7 @@ body.begeleiding {
 }
 
 body.opleiding   {
-  background-color: darkgreen;
+  background-color: green;
 }
 
 .vsc {
@@ -321,5 +321,11 @@ body.opleiding   {
 }
 
 body.software   {
-  background-color: darkgreen;
+  background-color: green;
+}
+.examfoto {
+  background-color: green;
+}
+.ouderfoto {
+  background-color: green;
 }
